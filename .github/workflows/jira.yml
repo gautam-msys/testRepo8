@@ -1,0 +1,4 @@
+- name: Jira Login
+  # You may pin to the exact commit or the version.
+  # uses: atlassian/bldpoeUQ4Gi2lUIKkLaWHZQ9yL1zsrjK@heDw_5AlEU5sb8KcYGSjDnuDSrqsJCO_V9MlaSp1tKuA3f8Dt8XLonEcYIM3p0Vj
+  uses: atlassian/bldpoeUQ4Gi2lUIKkLaWHZQ9yL1zsrjK@v2.0.0
